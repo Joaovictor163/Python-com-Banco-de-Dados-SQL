@@ -11,3 +11,7 @@ por : **_Albert Einstein_**
 
 Para essa integração usarei a biblioteca `pyodbc` do Python que permite a integração com qualquer tipo de Banco de Dados SQL, e usarei alguns Bancos de Dados disponibilizados gratuitamente na internet
 - Primeiro instalo a biblioteca do  `pyodbc` com o comando  `pip install pypdbc`
+- Também vou instalar um Driver do ***sqlite***
+- Baixar os Banco de dados para treinar as conexões
+
+# Nesta integração estarei testando operações de CRUD nos bancos de dados usando meus conhecimentos em SQL
