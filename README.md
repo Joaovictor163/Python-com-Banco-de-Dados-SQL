@@ -1,4 +1,4 @@
-# Python com Banco de Dados SQL
+# Integração de Python com Banco de Dados SQL
 
  --- 
  >A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original
